@@ -1,4 +1,4 @@
-# Java-and-Data-Structures-
+# Java-and-Data-Structures
 Selected coursework from Smith College's Data Structures course. Private to maintain confidentiality.
 
 
